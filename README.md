@@ -15,9 +15,7 @@ Default is Run mySAT with HCL solver and Debug OFF mode.
 
 
 
-To run mySAT with CBCP/NCBCP/NHCL solver.
-
-Update mySolver enum variable in main.cpp ->
+To run mySAT with CBCP/NCBCP/NHCL solver. Update mySolver enum variable in main.cpp ->
 
 > mySolver = CBCP; //For CBCP solver.
 
@@ -31,9 +29,7 @@ And, then compile and run.
 
 
 
-To run mySAT with LOW/MED/HIGH Debug mode.
-
-Update myDebug enum variable in main.cpp ->
+To run mySAT with LOW/MED/HIGH Debug mode. Update myDebug enum variable in main.cpp ->
 
 > myDebug = LOW; //For Debug LOW.
 
