@@ -1,7 +1,7 @@
 # SAT-solver
 The SAT solver checks if the given CNF formula evaluates to true for some arbitrary input combinations.
 
-SAT SOLVER by VIGNESH RAGHAVAN, ASHISH GONDIMALLA
+# # SAT SOLVER by VIGNESH RAGHAVAN, ASHISH GONDIMALLA
 
 DIRECTORY OVERVIEW:
 
