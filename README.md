@@ -1,10 +1,8 @@
 # SAT-solver
 The SAT solver checks if the given CNF formula evaluates to true for some arbitrary input combinations.
 
-================================================================================
 SAT SOLVER by VIGNESH RAGHAVAN, ASHISH GONDIMALLA
 
-================================================================================
 DIRECTORY OVERVIEW:
 
 benchmarks/    	2 SAT and 2 UNSAT benchmarks - 3 instances in each, hanoi4.cnf.
@@ -17,12 +15,10 @@ parse_c.h
 decisions.h
 README
 
-================================================================================
 COMPILING:
 
 > g++ main.cpp -o mySAT -O3
 
-================================================================================
 EXAMPLES:
 
 Default is Run mySAT with HCL solver and Debug OFF mode.
