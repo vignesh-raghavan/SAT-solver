@@ -19,11 +19,11 @@ To run mySAT with CBCP/NCBCP/NHCL solver.
 
 Update mySolver enum variable in main.cpp ->
 
-mySolver = CBCP; //For CBCP solver.
+> mySolver = CBCP; //For CBCP solver.
 
-mySolver = NCBCP; //For NCBCP solver.
+> mySolver = NCBCP; //For NCBCP solver.
 
-mySolver = NHCL; //For NHCL Solver.
+> mySolver = NHCL; //For NHCL Solver.
 
 And, then compile and run.
 
@@ -35,11 +35,11 @@ To run mySAT with LOW/MED/HIGH Debug mode.
 
 Update myDebug enum variable in main.cpp ->
 
-myDebug = LOW; //For Debug LOW.
+> myDebug = LOW; //For Debug LOW.
 
-myDebug = MED; //For Debug MED.
+> myDebug = MED; //For Debug MED.
 
-myDebug = HIGH; //For Debug HIGH.
+> myDebug = HIGH; //For Debug HIGH.
 
 And, then compile and run.
 
